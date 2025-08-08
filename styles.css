@@ -19,6 +19,7 @@ nav {
     background-color: #1f2937;
     color: #F9FAF9;
     font-size: 24px;
+    font-weight: 600;
     justify-content: space-around;
     padding: 10px;
 }
@@ -26,7 +27,53 @@ nav {
 a {
     text-decoration: none;
     color: #e5e7eb;
+    font-weight: 300;
     font-size: 18px;
     padding: 20px;
 }
 
+.hero-container {
+    display: flex;
+    flex-direction: row;
+    height: 450px;
+    background-color: #1f2937;
+    color: #F9FAF9;
+}
+
+.hero-content {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: flex-start;
+    margin: 0 180px 0 200px;
+}
+
+.hero-main-text {
+    font-size: 48px;
+    font-weight: 900;
+    margin-bottom: 20px;
+}
+
+.hero-info-text {
+    font-size: 18px;
+    color: #e5e7eb;
+    margin-bottom: 20px;
+}
+
+.hero-container button {
+    flex: 0 0 auto;
+    width: 150px;
+    height: 40px;
+    background-color: #3882F6;
+    color: #F9FAF9;
+    font-size: 15px;
+    border-radius: 15px;
+}
+
+.hero-container img {
+    flex: 0 0 auto;
+    max-width: 280px;
+    object-fit: contain;
+    margin-right: 200px;
+    align-self: center;
+}
