@@ -5,3 +5,4 @@ This is my HTMl & CSS project from The Odin Project, Foundation Course - Flexbox
 
 ## Credits and Acknowledgements ##
 - Cicada Metamorphosis - Image by <a href="https://pixabay.com/users/piard-5961126/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2525914">Joël Piard</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2525914">Pixabay</a>
+- Butterfly Metamorphosis - Image by <a href="https://pixabay.com/users/derweg-7520060/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4410868">DerWeg</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4410868">Pixabay</a>
