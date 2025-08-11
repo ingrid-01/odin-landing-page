@@ -57,6 +57,7 @@ a {
 .hero-info-text {
     font-size: 18px;
     color: #e5e7eb;
+    line-height: 1.4;
     margin-bottom: 20px;
 }
 
@@ -98,7 +99,6 @@ a {
     align-items: flex-start;
     gap: 40px;
     padding: 40px 0;
-    flex-wrap: wrap;
 }
 
 .card > div[class^="img-container"] {
